@@ -1,3 +1,11 @@
+
+/profitshield.in
+/Others
+.env
+.DS_Store
+
+
+
 # Logs
 logs
 *.log
